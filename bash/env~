@@ -1,0 +1,5 @@
+export EDITOR="emacs"
+export PATH=$PATH:~/bin:~rothr11/bin/bedtools2/bin:~rothr11/bin/ncbi-blast-2.2.30+/bin:~rothr11/bin/samtools-1.3:/usr/local/Cellar/wget/1.18/bin:~/bin/bcftools-1.3
+
+
+shopt -s histverify
